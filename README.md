@@ -1,15 +1,3 @@
-Olá e bem-vindos ao repositório do SOlucionadores, a equipe de Laboratório de Programação do segundo ano de Informática, tendo como integrantes:
+Site da escola Hogwarts
 
- ° Kauan: Olá, eu sou o Kauan, tenho 16 anos atualmente,  sou aluno de informática do segundo ano no IFTM-Campus Patrocínio. Com um interesse em áreas da tecnologia pretendo seguir numa carreira similar (Biotecnologia), estou motivado a utilizar meu conhecimento e experiência para alcançar objetivos importantes e gerar resultados positivos. Se você estiver interessado em saber mais sobre mim ou em conversar sobre quaisquer assuntos não hesite em entrar em contato.
- 
- ° Giovanna: Olá, sou a Giovanna, estudante do IFTM-Campus Patrocínio e curso Informática, tenho 16 anos, nasci em Uberlândia mas atualmente moro Patrocínio-MG. Fora da escola faço desing e fotografia, também estou iniciando no tráfeco pago. Tenho interesse em fazer faculdade de Desing na UFU e talvez de História. Se você estiver interessado em saber mais sobre mim ou em conversar sobre quaisquer assuntos não hesite em entrar em contato . 
-
- -> Este repositório é dedicado ao compartilhamento e colaboração de códigos, projetos e recursos utilizados durante nossas aulas. Aqui, você encontrará informações sobre nossos projetos e soluções desenvolvidas durante o ano.
-
-Nosso objetivo é criar uma comunidade de aprendizado colaborativo, onde todos possam contribuir e se beneficiar do conhecimento e experiência uns dos outros. Portanto, encorajamos você a compartilhar seus próprios códigos, projetos e soluções, bem como fornecer feedback construtivo para ajudar a melhorar o trabalho dos outros.
-
-Além disso, incentivamos o uso de boas práticas de programação, como documentação adequada, versionamento de código e desenvolvimento orientado a testes. Isso ajudará a garantir que nossos projetos sejam de alta qualidade e fáceis de manter e evoluir.
-
-Por fim, gostaríamos de lembrar que este é um ambiente de respeito e colaboração. Pedimos a todos os membros da equipe que sejam respeitosos uns com os outros e tratem todos com igualdade e cortesia. Juntos, podemos criar uma comunidade de aprendizado incrível e alcançar resultados incríveis.
-
-Agradecemos sua participação e contribuição para o sucesso da equipe SOlucionadores!
+O cliente deseja um site com uma página inicial chamativa em tons escuros. A página inicial deve apresentar a metodologia de ensino da escola, baseada em diferentes casas. Cada casa deve ter sua própria página, mostrando as características que elas dão mais valor. Também deve ser criada uma página com um contrato prévio de entrada na escola, apontando risco de vida para seus alunos. Por fim, deve existir uma página de formulário para interessados em matrícula.
