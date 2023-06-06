@@ -4,8 +4,6 @@ Olá e bem-vindos ao repositório do SOlucionadores, a equipe de Laboratório de
  
  ° Giovanna: Olá, sou a Giovanna, estudante do IFTM-Campus Patrocínio e curso Informática, tenho 16 anos, nasci em Uberlândia mas atualmente moro Patrocínio-MG. Fora da escola faço desing e fotografia, também estou iniciando no tráfeco pago. Tenho interesse em fazer faculdade de Desing na UFU e talvez de História. Se você estiver interessado em saber mais sobre mim ou em conversar sobre quaisquer assuntos não hesite em entrar em contato . 
 
- ° Maju: Olá, sou a Maju. Tenho 16 anos, estudante do IFTM-Informática, atleta de futsal, natação, atletismo e monitora do Futsal feminino do IFTM. Tenho interesse na área de ciências humanas, futura professora e tutora. Gosto de estudar e ler a respeito de assuntos históricos e filosóficos, que intrigam e questionam. Se você estiver interessado em saber mais sobre mim ou em conversar sobre quaisquer assuntos não hesite em entrar em contato . 
-
  -> Este repositório é dedicado ao compartilhamento e colaboração de códigos, projetos e recursos utilizados durante nossas aulas. Aqui, você encontrará informações sobre nossos projetos e soluções desenvolvidas durante o ano.
 
 Nosso objetivo é criar uma comunidade de aprendizado colaborativo, onde todos possam contribuir e se beneficiar do conhecimento e experiência uns dos outros. Portanto, encorajamos você a compartilhar seus próprios códigos, projetos e soluções, bem como fornecer feedback construtivo para ajudar a melhorar o trabalho dos outros.
